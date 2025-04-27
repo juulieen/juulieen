@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Software Engineer based in Toulouse, building scalable products and integrating AI features into real-world apps.
 
 - 🧠 Specializing in React, TypeScript, Node.js, Python
-- 🛠️ Playing with LLMs and Agents, (thanks [OpenRouter](https://openrouter.ai/), [Artificial analysis](https://artificialanalysis.ai/))
+- 🛠️ Playing with LLMs and Agents, (thanks [OpenRouter](https://openrouter.ai/), [Artificial analysis](https://artificialanalysis.ai/), [Workflowai](https://github.com/WorkflowAI/WorkflowAI))
 - 🌱 Always learning new things about Agents, MCP, A2A, React...
 - 🎯 Goals for 2025: Contribute to open-source LLM projects, run a 30km + 2000m trail!
 
